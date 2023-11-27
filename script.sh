@@ -1,3 +1,4 @@
+chmod -R 777 *
 mkdir testing
 cd testing
 ls
